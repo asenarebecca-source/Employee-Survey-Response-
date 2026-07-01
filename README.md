@@ -83,3 +83,9 @@ To improve results, the organization should take a targeted approach by reviewin
 Departments with lower scores should focus on workload balance, manager effectiveness, and team communication, while Staff employees should receive more frequent feedback, development opportunities, and recognition. 
 
 By using the dashboard to guide these focused improvements, management can strengthen the employee experience across the organization and create more consistent satisfaction at every level.
+
+
+
+Connect with me on my socials:
+[LinkedIn](https://www.linkedin.com/in/asena-rebecca-17083026b)
+[GitHub](https://github.com/asenarebecca-source)
