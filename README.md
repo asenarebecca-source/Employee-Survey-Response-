@@ -14,6 +14,8 @@ This project analyzes an Employee Satisfaction Survey dataset to assess employee
 Before developing the dashboard, I cleaned and transformed the dataset by removing duplicate records, standardizing the data, and creating a single Position field from the individual role columns to streamline the analysis. I then used PivotTables and interactive Excel visualizations to address the key business questions.
 
 
+## Visualisation and Analysis:
+
 
 ## Key Findings
 
