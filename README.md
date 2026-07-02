@@ -26,53 +26,45 @@ The organization recorded an average employee satisfaction score of 3.1, indicat
 
 ### Survey Question Analysis
 
-The average score by survey question helps identify the highest- and lowest-rated statements.
+#### Question 1: 
+Which survey questions did respondents agree with or disagree with most?
 
-Higher-scoring questions highlight areas where employees feel the organization is performing well.
+The analysis shows that respondents agreed most with the statement, "I know what is expected of me at work." This indicates that employees generally have a clear understanding of their job responsibilities and expectations. 
 
-Lower-scoring questions point to topics that may require management attention.
-Department and Role Trends
+Clear role definition is an organizational strength, as employees who understand what is expected of them are often more confident, productive, and engaged in their work.
 
-The dashboard reveals patterns across departments and job roles.
+In contrast, respondents agreed least with the statement, "I have a best friend at work." While workplace friendships can strengthen collaboration and employee engagement, this result suggests that employees may feel less socially connected within the organization. 
 
-Departments with higher average scores appear to have more positive employee experiences.
+Although having a best friend at work is not essential for job performance, it can reflect the overall workplace culture, sense of belonging, and team relationships. 
 
-Departments with lower scores may be facing challenges that require targeted action.
+This finding presents an opportunity for the organization to foster stronger teamwork through team-building activities, cross-functional collaboration, and initiatives that encourage positive workplace relationships.
 
-The Position Score chart shows a clear trend:
-Directors: 3.4
-Managers: 3.3
-Supervisors: 3.2
-Staff: 3.0
+#### Question 2: 
+Do you see any patterns or trends by department or role?
 
-While all groups generally agreed with the survey statements, Staff reported the lowest satisfaction levels. This suggests that employees in more operational roles may have different workplace experiences than leadership, making them an important group for future engagement efforts.
+Yes. The dashboard reveals clear trends across job roles. Directors recorded the highest average satisfaction score of 3.4, followed by Managers (3.3), Supervisors (3.2), and Staff (3.0). 
 
+Although all groups generally agreed with the survey statements, satisfaction gradually decreased from leadership to operational staff. 
 
+This suggests that Staff may experience different workplace challenges and could benefit from additional support, communication, and professional development.
 
-## Response Distribution
+The analysis also shows variations across departments. While some departments achieved higher satisfaction scores than others, the differences indicate that employee experiences are not uniform throughout the organization. 
 
-Most responses fall within the Agree category, reinforcing the finding that employees generally view the organization positively. 
-However, the presence of Disagree and Strongly Disagree responses indicates that not every employee shares the same experience.
+This suggests that improvement initiatives should be tailored to the needs of individual departments rather than applying a single organization-wide approach.
 
-The department response view further shows how response patterns vary across departments, helping management identify where negative responses occur more frequently.
+#### Question 3: 
+As an employer, what steps might you take to improve employee satisfaction based on the survey results?
+
+- Based on the survey findings, management should focus on improving the areas that received the lowest ratings while maintaining the organization's existing strengths.
+- Priority should be given to strengthening workplace relationships by promoting collaboration, team-building activities, mentoring programmes, and open communication among employees.
+- The organization should also provide more frequent recognition, constructive feedback, and career development opportunities, particularly for Staff members who recorded the lowest satisfaction levels.
+- In addition, departments with comparatively lower satisfaction scores should be assessed individually to identify the root causes of employee concerns and implement targeted improvement plans.
+- Finally, conducting employee satisfaction surveys regularly will enable management to monitor progress, evaluate the effectiveness of improvement initiatives, and make informed decisions that foster a more engaged, productive, and satisfied workforce.
 
 
 
 You can interact with the live visualization [HERE](https://1drv.ms/x/c/6b3763bd9d685e70/IQAmX0qEFsMvTa4dKnh5BHH3AXgsBDp3EqP1Yg6I6dz57Eg)
 
-
-## Recommendations
-
-Based on these findings, I recommend the following actions:
-
-- Focus on improving the survey topics with the lowest average scores, as these represent the greatest opportunities for improvement.
-- Give additional attention to Staff employees through regular feedback sessions, recognition programs, career development opportunities, and improved communication.
-- Review departments with lower satisfaction scores individually to identify the specific factors affecting employee experience instead of applying a one-size-fits-all solution.
-- Conduct employee satisfaction surveys regularly to track progress over time and measure the impact of improvement initiatives.
-- Strengthen manager training in departments with lower scores so supervisors can improve communication, provide clearer expectations, and address employee concerns more effectively.
-- Create role-specific action plans for Staff, Supervisors, Managers, and Directors so improvements are aligned with the needs of each position.
-- Increase recognition and career growth opportunities for frontline employees, especially Staff, to improve morale and reduce the gap between leadership and operational roles.
-- Use department-level follow-up meetings to review survey results, identify root causes, and assign accountability for corrective actions.
 
 
 ## Conclusion
