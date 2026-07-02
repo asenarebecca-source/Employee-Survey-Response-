@@ -15,6 +15,7 @@ Before developing the dashboard, I cleaned and transformed the dataset by removi
 
 
 ## Visualisation and Analysis:
+![](https://github.com/asenarebecca-source/Employee-Survey-Response-/blob/main/Employee%20Survey%20Dashboard%20-%20Excel%20(Product%20Activation%20Failed)%206_30_2026%207_29_25%20AM.png)
 
 
 ## Key Findings
